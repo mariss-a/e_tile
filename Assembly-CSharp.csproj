@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{34FA63BA-2037-64D0-07FE-4E1FDCDA699E}</ProjectGuid>
+    <ProjectGuid>{BA3BC7C0-4DB8-049B-D5C6-D871DE15D8D8}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -60,90 +60,90 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\Examples\ComputerVision\Scripts\ComputerVisionController.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\Examples\ComputerVision\Scripts\EdgeDetector.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\Examples\ComputerVision\Scripts\TextureReader.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\Examples\ComputerVision\Scripts\TextureReaderApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\Examples\HelloAR\Scripts\HelloARController.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\Examples\HelloAR\Scripts\PointcloudVisualizer.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\Examples\HelloAR\Scripts\TrackedPlaneVisualizer.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\InstantPreview\Scripts\InstantPreviewInput.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\InstantPreview\Scripts\InstantPreviewManager.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\InstantPreview\Scripts\InstantPreviewTrackedPoseDriver.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Anchor.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\AndroidPermissionsManager.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\AndroidPermissionsRequestResult.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\AnchorApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiApkInstallationStatus.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiApkInstallStatusExtensions.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiArStatus.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiAvailability.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiAvailabilityExtensions.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiCameraMetadata.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiConstants.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiDisplayUvCoords.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiLightEstimateState.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiLightEstimateStateExtensions.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiLightEstimationMode.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiPlaneFindingMode.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiPoseData.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiPrestoConfig.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiPrestoStatus.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiPrestoStatusExtensions.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiTrackableType.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiTrackableTypeExtensions.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiTrackedPointOrientationMode.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiTrackedPointOrientationModeExtensions.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiTrackingState.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiTrackingStateExtensions.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\ApiUpdateMode.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\CameraApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\CameraMetadataApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\FrameApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\HitTestApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\LightEstimateApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\NativeSession.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\PlaneApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\PointApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\PointCloudApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\PoseApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\SessionApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\SessionConfigApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\TrackableApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Api\TrackableListApi.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\ApkAvailabilityStatus.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\ApkInstallationStatus.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\ARCoreBackgroundRenderer.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\ARCoreSession.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\ARCoreSessionConfig.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Async\WaitForTaskCompletionYieldInstruction.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\AsyncTask.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\CameraMetadataTag.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\CameraMetadataValue.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\EnvironmentalLight.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Frame.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\LightEstimate.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\LightEstimateState.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Managers\LifecycleManager.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Managers\TrackableManager.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\PointCloudPoint.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Session.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\SessionStatus.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\SessionStatusExtensions.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Trackable.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\TrackableHit.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\TrackableHitFlags.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\TrackableQueryFilter.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\TrackedPlane.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\TrackedPoint.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\TrackedPointOrientationMode.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\TrackingState.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Utility\ARCoreProjectSettings.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Utility\ARDebug.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Utility\ConversionHelper.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Utility\IntPtrEqualityComparer.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Scripts\Utility\MarshalingHelper.cs" />
-    <Compile Include="Assets\ARCore Tile flatting\Scripts\PlaneVisualizationManager.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\Examples\ComputerVision\Scripts\ComputerVisionController.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\Examples\ComputerVision\Scripts\EdgeDetector.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\Examples\ComputerVision\Scripts\TextureReader.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\Examples\ComputerVision\Scripts\TextureReaderApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\Examples\HelloAR\Scripts\HelloARController.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\Examples\HelloAR\Scripts\PointcloudVisualizer.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\Examples\HelloAR\Scripts\TrackedPlaneVisualizer.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\InstantPreview\Scripts\InstantPreviewInput.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\InstantPreview\Scripts\InstantPreviewManager.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\InstantPreview\Scripts\InstantPreviewTrackedPoseDriver.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Anchor.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\AndroidPermissionsManager.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\AndroidPermissionsRequestResult.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\AnchorApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiApkInstallationStatus.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiApkInstallStatusExtensions.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiArStatus.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiAvailability.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiAvailabilityExtensions.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiCameraMetadata.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiConstants.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiDisplayUvCoords.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiLightEstimateState.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiLightEstimateStateExtensions.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiLightEstimationMode.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiPlaneFindingMode.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiPoseData.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiPrestoConfig.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiPrestoStatus.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiPrestoStatusExtensions.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiTrackableType.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiTrackableTypeExtensions.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiTrackedPointOrientationMode.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiTrackedPointOrientationModeExtensions.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiTrackingState.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiTrackingStateExtensions.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\ApiUpdateMode.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\CameraApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\CameraMetadataApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\FrameApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\HitTestApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\LightEstimateApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\NativeSession.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\PlaneApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\PointApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\PointCloudApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\PoseApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\SessionApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\SessionConfigApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\TrackableApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Api\TrackableListApi.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\ApkAvailabilityStatus.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\ApkInstallationStatus.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\ARCoreBackgroundRenderer.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\ARCoreSession.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\ARCoreSessionConfig.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Async\WaitForTaskCompletionYieldInstruction.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\AsyncTask.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\CameraMetadataTag.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\CameraMetadataValue.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\EnvironmentalLight.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Frame.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\LightEstimate.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\LightEstimateState.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Managers\LifecycleManager.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Managers\TrackableManager.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\PointCloudPoint.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Session.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\SessionStatus.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\SessionStatusExtensions.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Trackable.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\TrackableHit.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\TrackableHitFlags.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\TrackableQueryFilter.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\TrackedPlane.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\TrackedPoint.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\TrackedPointOrientationMode.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\TrackingState.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Utility\ARCoreProjectSettings.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Utility\ARDebug.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Utility\ConversionHelper.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Utility\IntPtrEqualityComparer.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Scripts\Utility\MarshalingHelper.cs" />
+    <Compile Include="Assets\ARCoreTileFlatting\Scripts\PlaneVisualizationManager.cs" />
     <Compile Include="Assets\main menu\Scripts\loadSceneOnclick.cs" />
     <Compile Include="Assets\main menu\Scripts\QuitOnClick.cs" />
     <Compile Include="Assets\main menu\Scripts\SelectOnInput.cs" />
@@ -160,28 +160,28 @@
     <Compile Include="Assets\navigation_drawer\Assets\navigation drawer\Scripts\UI\Panels\MostUsedPanel.cs" />
     <Compile Include="Assets\navigation_drawer\Assets\navigation drawer\Scripts\UI\Panels\NewPanel.cs" />
     <Compile Include="Assets\navigation_drawer\Assets\navigation drawer\Scripts\UI\Panels\TileCalculatorPanel.cs" />
-    <None Include="Assets\ARCore Tile flatting\GoogleARCore\Examples\HelloAR\Materials\Shaders\PlaneGrid.shader" />
+    <None Include="Assets\ARCoreTileFlatting\GoogleARCore\Examples\HelloAR\Materials\Shaders\PlaneGrid.shader" />
     <None Include="Assets\navigation_drawer\ProjectSettings\ProjectVersion.txt" />
-    <None Include="Assets\ARCore Tile flatting\GoogleARCore\Examples\HelloAR\Materials\Shaders\MobileDiffuseWithLightEstimation.shader" />
-    <None Include="Assets\ARCore Tile flatting\GoogleARCore\SDK\Materials\ARBackground.shader" />
-    <None Include="Assets\ARCore Tile flatting\GoogleARCore\Examples\HelloAR\Materials\Shaders\PointCloud.shader" />
-    <None Include="Assets\ARCore Tile flatting\Materials\Shaders\Grass.shader" />
-    <None Include="Assets\ARCore Tile flatting\GoogleARCore\Examples\ComputerVision\Materials\AREdgeDetectionBackground.shader" />
-    <None Include="Assets\ARCore Tile flatting\GoogleARCore\Examples\HelloAR\Materials\Shaders\MobileSpecularWithLightEstimation.shader" />
+    <None Include="Assets\ARCoreTileFlatting\GoogleARCore\Examples\HelloAR\Materials\Shaders\MobileDiffuseWithLightEstimation.shader" />
+    <None Include="Assets\ARCoreTileFlatting\GoogleARCore\SDK\Materials\ARBackground.shader" />
+    <None Include="Assets\ARCoreTileFlatting\GoogleARCore\Examples\HelloAR\Materials\Shaders\PointCloud.shader" />
+    <None Include="Assets\ARCoreTileFlatting\Materials\Shaders\Grass.shader" />
+    <None Include="Assets\ARCoreTileFlatting\GoogleARCore\Examples\ComputerVision\Materials\AREdgeDetectionBackground.shader" />
+    <None Include="Assets\ARCoreTileFlatting\GoogleARCore\Examples\HelloAR\Materials\Shaders\MobileSpecularWithLightEstimation.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Admin/Desktop/NEW/e-Tile/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/git/e-tile/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Admin/Desktop/NEW/e-Tile/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/git/e-tile/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/Admin/Desktop/NEW/e-Tile/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/git/e-tile/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Admin/Desktop/NEW/e-Tile/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/git/e-tile/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/Admin/Desktop/NEW/e-Tile/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/git/e-tile/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.8f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -382,13 +382,13 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.8f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/Admin/Desktop/NEW/e-Tile/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/git/e-tile/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/Admin/Desktop/NEW/e-Tile/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/git/e-tile/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/Admin/Desktop/NEW/e-Tile/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/Admin/Documents/git/e-tile/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.4.8f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
