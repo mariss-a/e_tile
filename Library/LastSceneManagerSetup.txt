@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/main menu/Scenes/MainMenu.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/navigation_drawer/Assets/navigation drawer/Scenes/Navigation Drawer.unity
+  isLoaded: 1
+  isActive: 0
